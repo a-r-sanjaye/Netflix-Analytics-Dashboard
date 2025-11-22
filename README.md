@@ -14,9 +14,8 @@ The dashboard makes it easy to analyze Netflix’s content library and understan
 
 ---
 
-## 🖼 Dashboard Preview
-
-<img width="1320" height="734" alt="Dashboard" src="https://github.com/user-attachments/assets/1839a9f2-3429-489b-982b-074d51d6a8ae" />
+#Dahboard Preview
+![Netflix Dashboard](images/dashboard.png)
 
 ---
 
