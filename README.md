@@ -15,7 +15,7 @@ The dashboard makes it easy to analyze Netflix’s content library and understan
 ---
 
 #Dahboard Preview
-![Netflix Dashboard](images/dashboard.png)
+![Netflix Dashboard](https://github.com/a-r-sanjaye/Netflix-Analytics-Dashboard/blob/main/images/Dashboard.png")
 
 ---
 
@@ -59,18 +59,3 @@ It contains information like:
 
 ---
 
-## 🚀 How to Use
-1. Clone the repository  
-2. Open the `.pbix` file in Power BI Desktop  
-3. Refresh the dataset if needed  
-4. Explore the visualizations  
-
----
-
-## 🤝 Contributions
-Contributions, suggestions, and feature enhancements are welcome!
-
----
-
-## 📜 License
-This project is for educational and analytical purposes. Respect the dataset's original license terms.
