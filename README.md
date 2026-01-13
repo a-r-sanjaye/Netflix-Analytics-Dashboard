@@ -1,4 +1,4 @@
-# 🎬 Netflix Content Analysis Dashboard
+#Netflix Content Analysis Dashboard
 
 This project is a Power BI dashboard built using the Netflix Titles dataset.
 It provides insights into:
@@ -19,7 +19,7 @@ The dashboard makes it easy to analyze Netflix’s content library and understan
 
 ---
 
-## 🧠 Insights From Dashboard
+##  Insights From Dashboard
 
 ### ✔ Total Metrics
 - **Total Titles:** 8803  
@@ -44,7 +44,7 @@ The dashboard makes it easy to analyze Netflix’s content library and understan
 
 ---
 
-## 📁 Dataset Source
+##  Dataset Source
 
 Netflix Titles Dataset (commonly available from Kaggle or other open data sources).  
 It contains information like:
